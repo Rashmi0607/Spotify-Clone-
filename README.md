@@ -26,7 +26,7 @@ It replicates the core look and feel of Spotify, with a custom audio player and 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 project/
