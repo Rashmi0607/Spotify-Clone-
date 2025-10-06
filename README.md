@@ -100,3 +100,7 @@ Contributions are welcome!
 This project is licensed under the **MIT License**.
 
 ---
+<img width="1351" height="627" alt="Screenshot 2025-10-06 165708" src="https://github.com/user-attachments/assets/44f16c01-c907-45c0-918d-d2ccd83e05c3" />
+<img width="1352" height="632" alt="Screenshot 2025-10-06 165733" src="https://github.com/user-attachments/assets/1038301c-bb40-43f8-9158-416491a9d256" />
+
+
