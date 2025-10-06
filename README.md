@@ -1,22 +1,22 @@
 
-# 🎵 Spotify Clone
+#  Spotify Clone
 
 A **Spotify-inspired music streaming web app** built using **React, TypeScript, Vite, and TailwindCSS**.
 It replicates the core look and feel of Spotify, with a custom audio player and multiple views.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🎧 Music player with play/pause/skip controls
-* 📂 Different views: Home, Playlist, Search, Library
-* 🎨 Modern responsive UI styled with TailwindCSS
-* 📱 Works on desktop & mobile
-* 🔊 Mock data provided for demo songs
+*  Music player with play/pause/skip controls
+*  Different views: Home, Playlist, Search, Library
+*  Modern responsive UI styled with TailwindCSS
+*  Works on desktop & mobile
+*  Mock data provided for demo songs
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React (TypeScript)
 * **Bundler:** Vite
@@ -55,7 +55,7 @@ project/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
 
@@ -84,13 +84,7 @@ project/
 
 ---
 
-## 📸 Screenshots
-
-(Add UI screenshots here for better presentation)
-
----
-
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -101,7 +95,7 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 
